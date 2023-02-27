@@ -1,0 +1,28 @@
+Osbaldo Gonzalez Jr.
+ID #: 62748296
+
+						EECS 22 HW4
+
+Well, I definetly did not perform to my normal level. This came down to the fact
+that I had more or less been really familiar with the techniques in the previous 
+labs and I honestly underestimated how hard this lab would be. Well, why was it 
+hard? It is all about the dynamic allocation. I feel like since there are so many 
+files (relitively soeaking) I would just run in circles trying to fix something
+but never really fixing anything. For the GetPixel and SetPixel functions I implemented
+it in junction with the "find the width" function. I knew that the the width of 
+the image would be crucial to implementing it correctly. For the "find the width"
+itself I just used a do while loop that would count until the structure would have 
+a W value of zero once more. I think I could have spend some more quality time with 
+the Loading and Saving images. This honestly was what ended up killing me. I might
+have been messy with the mallocs and frees too. This is definetly no where near my 
+strongest assigment, and probably will go down as my weakest. I know that I was in 
+the right path in multiple parts of the process, but that doesn't mean nothing when
+at the end of the day, my photo editior is not even able to load an image to edit....
+
+
+Thank you for reading,
+
+
+
+Osbaldo Gonzalez Jr.
+
